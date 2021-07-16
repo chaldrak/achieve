@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T08:36:42.463Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="c78fk8IIkWr1xS0I-Qhx" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T08:57:45.571Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VR0uXEm7sRb5rUwAQ8-8" version="14.8.5" type="github">
   <diagram id="hpZ2ijfec3fR8u717P_D" name="Page-1">
     <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,21 @@
         </mxCell>
         <mxCell id="o0RG13xBRZ82Ae1Whbt0-12" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RG13xBRZ82Ae1Whbt0-13" value="permuter numbers [ j-1 ] et numbers [ j ]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="800" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RG13xBRZ82Ae1Whbt0-14" value="numbers [ j-1 ]&amp;nbsp;&amp;gt; numbers [ j ]" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="680" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RG13xBRZ82Ae1Whbt0-15" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RG13xBRZ82Ae1Whbt0-16" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RG13xBRZ82Ae1Whbt0-17" value="j += 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
